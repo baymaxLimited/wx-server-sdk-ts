@@ -1,0 +1,29 @@
+{
+  "name": "wx-server-sdk-ts",
+  "author": "mindfocus",
+  "version": "2.4.2-6",
+  "main": "./index.d.ts",
+  "types": "./index.d.ts",
+  "license": "MIT",
+  "token": "582f249b-7575-46de-aea0-6bfcd429caae",
+  "description": "wx-server-sdk typings",
+  "scripts": {
+    "test": "npm test",
+    "pub": "npm publish --registry=https://registry.npmjs.org"
+  },
+  "publishConfig": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baymaxLimited/wx-server-sdk-ts.git"
+  },
+  "keywords": [
+    "wx-server-sdk",
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/baymaxLimited/wx-server-sdk-ts/issues"
+  },
+  "homepage": "https://github.com/baymaxLimited/wx-server-sdk-ts#readme"
+}
