@@ -1,7 +1,7 @@
 {
   "name": "wx-server-sdk-ts",
   "author": "mindfocus",
-  "version": "2.4.2-6",
+  "version": "2.4.2-7",
   "main": "./index.d.ts",
   "types": "./index.d.ts",
   "license": "MIT",
